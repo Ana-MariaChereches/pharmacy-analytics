@@ -45,12 +45,12 @@ Star schema with `FactSales` at the centre.
 
 - [x] Requirements documented
 - [x] Dataset generated
-- [ ] Data model built in Power BI
-- [ ] Performance overview page
+- [x] Data model built in Power BI
+- [x] Performance overview page
 - [ ] Operations page
 - [ ] Product mix page
 - [ ] Stock risk page
-- [ ] Findings written up
+- [x] Findings written up
 
 ## Findings
 
