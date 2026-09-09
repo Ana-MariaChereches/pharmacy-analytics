@@ -1,0 +1,46 @@
+ProductKey,ProductName,Category,UnitCost,StockOnHand,ReorderLevel,ExpiryDate,BatchValue
+1,Paracetamol 500mg,OTC,4.2,74,24,2027-01-14,310.8
+2,Ibuprofen 400mg,OTC,5.1,186,52,2026-12-12,948.6
+3,Aspirin 100mg,OTC,3.8,67,18,2027-09-15,254.6
+4,Amoxicillin 1g,Rx,12.4,147,59,2026-03-25,1822.8
+5,Azithromycin 500mg,Rx,18.6,168,25,2026-06-22,3124.8
+6,Ciprofloxacin 500mg,Rx,15.2,107,26,2028-03-04,1626.4
+7,Cetirizine 10mg,OTC,6.3,65,18,2028-03-10,409.5
+8,Loratadine 10mg,OTC,5.9,31,13,2027-03-20,182.9
+9,Fluticasone spray,Rx,21.0,161,31,2027-05-13,3381.0
+10,Salbutamol inhaler,Rx,19.8,209,46,2026-05-17,4138.2
+11,Cough syrup 150ml,OTC,8.7,90,24,2025-12-06,783.0
+12,Throat lozenges,OTC,4.6,59,20,2025-10-27,271.4
+13,Nasal decongestant,OTC,7.2,88,20,2028-03-20,633.6
+14,Metformin 850mg,Rx,11.3,69,29,2026-01-12,779.7
+15,Insulin pen,Rx,48.0,79,23,2026-12-25,3792.0
+16,Glucose test strips,Medical,32.0,77,15,2027-02-12,2464.0
+17,Atorvastatin 20mg,Rx,13.7,162,67,2026-08-15,2219.4
+18,Ramipril 5mg,Rx,10.9,78,26,2026-10-28,850.2
+19,Bisoprolol 5mg,Rx,9.8,96,38,2026-05-17,940.8
+20,Omeprazole 20mg,Rx,8.9,159,64,2028-05-30,1415.1
+21,Antacid tablets,OTC,5.4,143,59,2028-06-13,772.2
+22,Probiotic capsules,Supplement,22.0,52,21,2026-12-21,1144.0
+23,Vitamin D3 2000IU,Supplement,14.5,75,12,2027-06-01,1087.5
+24,Vitamin C 1000mg,Supplement,9.6,195,37,2028-05-04,1872.0
+25,Magnesium + B6,Supplement,12.8,99,18,2025-09-16,1267.2
+26,Omega-3 capsules,Supplement,25.4,143,24,2025-11-21,3632.2
+27,Iron supplement,Supplement,11.2,194,72,2026-09-11,2172.8
+28,Multivitamin complex,Supplement,18.9,152,45,2025-10-09,2872.8
+29,Sunscreen SPF50,Cosmetic,26.0,90,31,2027-08-31,2340.0
+30,Moisturising cream,Cosmetic,17.4,125,38,2027-08-26,2175.0
+31,Hydrocortisone cream,OTC,9.3,187,59,2027-03-03,1739.1
+32,Antifungal cream,OTC,10.6,171,67,2027-06-12,1812.6
+33,Wound dressing pack,Medical,6.8,206,33,2027-12-12,1400.8
+34,Elastic bandage,Medical,4.9,103,23,2027-08-15,504.7
+35,Digital thermometer,Medical,21.0,193,85,2025-09-11,4053.0
+36,Blood pressure monitor,Medical,98.0,108,44,2026-07-25,10584.0
+37,Sertraline 50mg,Rx,14.2,186,69,2027-11-18,2641.2
+38,Alprazolam 0.5mg,Rx,12.6,128,19,2027-06-25,1612.8
+39,Levothyroxine 50mcg,Rx,7.4,23,5,2028-05-06,170.2
+40,Contraceptive pill,Rx,16.3,26,7,2027-08-25,423.8
+41,Prenatal vitamins,Supplement,23.5,218,93,2028-05-06,5123.0
+42,Paediatric syrup,OTC,9.1,9,1,2027-12-23,81.9
+43,Oral rehydration salts,OTC,3.6,130,47,2026-11-16,468.0
+44,Eye drops,OTC,8.4,88,14,2028-05-28,739.2
+45,Contact lens solution,Medical,15.7,83,23,2026-05-23,1303.1

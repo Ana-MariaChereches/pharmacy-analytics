@@ -1,0 +1,46 @@
+ProductKey,ProductName,Category,TherapeuticClass,RequiresRx,UnitCost,UnitPrice
+1,Paracetamol 500mg,OTC,Analgesic,0,4.2,9.5
+2,Ibuprofen 400mg,OTC,Analgesic,0,5.1,11.9
+3,Aspirin 100mg,OTC,Analgesic,0,3.8,8.4
+4,Amoxicillin 1g,Rx,Antibiotic,1,12.4,27.0
+5,Azithromycin 500mg,Rx,Antibiotic,1,18.6,39.9
+6,Ciprofloxacin 500mg,Rx,Antibiotic,1,15.2,33.5
+7,Cetirizine 10mg,OTC,Antihistamine,0,6.3,14.2
+8,Loratadine 10mg,OTC,Antihistamine,0,5.9,13.4
+9,Fluticasone spray,Rx,Antihistamine,1,21.0,45.0
+10,Salbutamol inhaler,Rx,Respiratory,1,19.8,42.0
+11,Cough syrup 150ml,OTC,Respiratory,0,8.7,19.5
+12,Throat lozenges,OTC,Respiratory,0,4.6,10.9
+13,Nasal decongestant,OTC,Respiratory,0,7.2,16.3
+14,Metformin 850mg,Rx,Diabetes,1,11.3,24.8
+15,Insulin pen,Rx,Diabetes,1,48.0,96.0
+16,Glucose test strips,Medical,Diabetes,0,32.0,68.0
+17,Atorvastatin 20mg,Rx,Cardiovascular,1,13.7,29.6
+18,Ramipril 5mg,Rx,Cardiovascular,1,10.9,23.4
+19,Bisoprolol 5mg,Rx,Cardiovascular,1,9.8,21.2
+20,Omeprazole 20mg,Rx,Gastro,1,8.9,19.8
+21,Antacid tablets,OTC,Gastro,0,5.4,12.6
+22,Probiotic capsules,Supplement,Gastro,0,22.0,49.0
+23,Vitamin D3 2000IU,Supplement,Vitamins,0,14.5,34.0
+24,Vitamin C 1000mg,Supplement,Vitamins,0,9.6,22.5
+25,Magnesium + B6,Supplement,Vitamins,0,12.8,29.9
+26,Omega-3 capsules,Supplement,Vitamins,0,25.4,56.0
+27,Iron supplement,Supplement,Vitamins,0,11.2,26.7
+28,Multivitamin complex,Supplement,Vitamins,0,18.9,42.5
+29,Sunscreen SPF50,Cosmetic,Dermatology,0,26.0,58.0
+30,Moisturising cream,Cosmetic,Dermatology,0,17.4,39.0
+31,Hydrocortisone cream,OTC,Dermatology,0,9.3,21.0
+32,Antifungal cream,OTC,Dermatology,0,10.6,23.8
+33,Wound dressing pack,Medical,First aid,0,6.8,15.4
+34,Elastic bandage,Medical,First aid,0,4.9,11.2
+35,Digital thermometer,Medical,Devices,0,21.0,47.0
+36,Blood pressure monitor,Medical,Devices,0,98.0,199.0
+37,Sertraline 50mg,Rx,Psychiatry,1,14.2,30.6
+38,Alprazolam 0.5mg,Rx,Psychiatry,1,12.6,27.4
+39,Levothyroxine 50mcg,Rx,Endocrine,1,7.4,16.8
+40,Contraceptive pill,Rx,Gynaecology,1,16.3,35.2
+41,Prenatal vitamins,Supplement,Gynaecology,0,23.5,52.0
+42,Paediatric syrup,OTC,Paediatric,0,9.1,20.4
+43,Oral rehydration salts,OTC,Paediatric,0,3.6,8.2
+44,Eye drops,OTC,Ophthalmology,0,8.4,18.9
+45,Contact lens solution,Medical,Ophthalmology,0,15.7,34.5
