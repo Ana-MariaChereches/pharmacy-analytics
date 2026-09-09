@@ -1,1 +1,62 @@
-# pharmacy-analytics
+# Pharmacy Analytics Dashboard
+
+A business analysis and reporting project built on a synthetic retail pharmacy dataset: from stakeholder requirements through to a Power BI dashboard.
+
+> **Note on data.** All data in this repository is synthetic and generated programmatically for this project. It contains no real patients, transactions or business records.
+
+---
+
+## Why this project
+
+I worked as a pharmacist for two and a half years and saw the same reporting problem repeatedly: sales sit in one system, stock in another, and answering a simple question like *"which products are about to expire and what are they worth"* means exporting both and reconciling by hand.
+
+This project treats that as a business analysis problem first and a dashboard second. The requirements were written before anything was built.
+
+## What is in here
+
+| File | Contents |
+|---|---|
+| `REQUIREMENTS.md` | Stakeholder, business questions, user stories with acceptance criteria, glossary, assumptions |
+| `/data` | Six CSV files forming a star schema |
+| `/dashboard` | Power BI file and screenshots |
+| `generate_data.py` | The script that produced the dataset |
+
+## The data model
+
+Star schema with `FactSales` at the centre.
+
+- **FactSales** — one row per product line within a transaction, ~100,000 rows across 2024–2025
+- **DimProduct** — 45 products across prescription, over-the-counter, supplement, cosmetic and medical device categories
+- **DimCustomer** — 850 anonymised customers (age group, city, loyalty flag only)
+- **DimDate** — full calendar with weekday and season attributes
+- **DimStaff** — five staff members by role
+- **Inventory** — stock on hand, reorder level and expiry date per product
+
+## Business questions the dashboard answers
+
+1. How is revenue trending, and which categories drive it?
+2. Which categories generate margin rather than volume?
+3. When are we busiest, by weekday and hour, and does staffing match?
+4. How does the prescription versus over-the-counter mix shift seasonally?
+5. Which stock is at risk of expiring, and what is it worth?
+6. Which products are slow movers tying up capital?
+
+## Status
+
+- [x] Requirements documented
+- [x] Dataset generated
+- [ ] Data model built in Power BI
+- [ ] Performance overview page
+- [ ] Operations page
+- [ ] Product mix page
+- [ ] Stock risk page
+- [ ] Findings written up
+
+## Findings
+
+*To be added as the dashboard is built.*
+
+---
+
+Built by Ana-Maria Cherecheș · [LinkedIn](https://www.linkedin.com/in/ana-maria-chereches/) · ECBA certified (IIBA)
+
