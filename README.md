@@ -58,7 +58,7 @@ Revenue follows a clear seasonal pattern: it declines steadily from January into
 
 Margin tells a more nuanced story than revenue alone. Rx drives by far the most revenue, but Medical products actually carry the lowest margin of any category (even lower than Rx) while Supplement and OTC are the most profitable relative to what they sell. That gap matters more for stocking and pricing decisions than the revenue ranking on its own.
 
-![Dashboard](pharmacy-analytics/Pharmacy-analysys-dashboard.png)
+![Dashboard](Pharmacy-analysys-dashboard.png)
 
 ---
 
