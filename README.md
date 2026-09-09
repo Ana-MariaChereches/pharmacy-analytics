@@ -40,6 +40,8 @@ Star schema with `FactSales` at the centre.
 4. How does the prescription versus over-the-counter mix shift seasonally?
 5. Which stock is at risk of expiring, and what is it worth?
 6. Which products are slow movers tying up capital?
+7. How often are medications refused without a valid prescription?
+8. What products are almost always sold together?
 
 ## Status
 
