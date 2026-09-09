@@ -54,7 +54,11 @@ Star schema with `FactSales` at the centre.
 
 ## Findings
 
-*To be added as the dashboard is built.*
+Revenue follows a clear seasonal pattern: it declines steadily from January into a summer trough, then recovers through the final months of the year - consistent with a pharmacy's product mix leaning toward cold and flu season.
+
+Margin tells a more nuanced story than revenue alone. Rx drives by far the most revenue, but Medical products actually carry the lowest margin of any category (even lower than Rx) while Supplement and OTC are the most profitable relative to what they sell. That gap matters more for stocking and pricing decisions than the revenue ranking on its own.
+
+![Dashboard](dashboard/Pharmacy analysys dashboard.png)
 
 ---
 
