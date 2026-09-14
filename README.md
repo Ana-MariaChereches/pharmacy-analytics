@@ -50,8 +50,9 @@ Star schema with `FactSales` at the centre.
 - [x] Data model built in Power BI
 - [x] Performance overview page
 - [x] Operations page
-- [ ] Product mix page
+- [x] Product mix page
 - [ ] Stock risk page
+- [ ] Cross-sell page (product affinity)
 - [x] Findings written up
 
 ## Findings
@@ -65,6 +66,12 @@ Margin tells a more nuanced story than revenue alone. Rx drives by far the most 
 The Operations page shows clear peaks in transaction volume: Friday at 5pm is the single busiest slot of the week, with mornings (10–11am) and the 5–6pm window consistently busy across weekdays. Saturday and the opening hour (8am) are the quietest. Revenue is concentrated among pharmacists, as expected given prescription requirements, but individual output varies meaningfully even within that group. Average basket size stays flat throughout the day (74–77 lei), so there's no time-of-day pattern worth pricing around. 
 
 ![Operations](operations-dashboard.png)
+
+
+The Product Mix page confirms a clear seasonal split by therapeutic class: respiratory medication peaks in winter, antihistamines in spring, and dermatology products in summer — the classic pharmacy calendar. Prescription share of revenue follows a milder version of the same pattern, dipping to ~30–31% mid-year and rising to ~36% in winter and early spring. Separately, 3.4% of prescription-required sales are refused for lacking a valid prescription. 
+
+![Product Mix](product-mix.png)
+
 ---
 
 Built by Ana-Maria Cherecheș · [LinkedIn](https://www.linkedin.com/in/ana-maria-chereches/) · ECBA certified (IIBA)
