@@ -51,7 +51,7 @@ Star schema with `FactSales` at the centre.
 - [x] Performance overview page
 - [x] Operations page
 - [x] Product mix page
-- [ ] Stock risk page
+- [x] Stock risk page
 - [ ] Cross-sell page (product affinity)
 - [x] Findings written up
 
@@ -71,6 +71,10 @@ The Operations page shows clear peaks in transaction volume: Friday at 5pm is th
 The Product Mix page confirms a clear seasonal split by therapeutic class: respiratory medication peaks in winter, antihistamines in spring, and dermatology products in summer — the classic pharmacy calendar. Prescription share of revenue follows a milder version of the same pattern, dipping to ~30–31% mid-year and rising to ~36% in winter and early spring. Separately, 3.4% of prescription-required sales are refused for lacking a valid prescription. 
 
 ![Product Mix](product-mix.png)
+
+The Stock Risk page reveals a bigger issue than expected: nearly half of stock value (39,965 lei of 82,342 lei total) is already expired, not just at risk of expiring — more than 15x the 2,267 lei sitting in the 90-day risk window. No products are currently below reorder level. Turnover otherwise looks healthy: even the slowest-moving product holds only about 61 days of stock at current sales pace.
+
+![Stock Risk](stock-risk.png)
 
 ---
 
