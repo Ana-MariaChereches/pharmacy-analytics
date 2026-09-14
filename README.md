@@ -62,6 +62,9 @@ Margin tells a more nuanced story than revenue alone. Rx drives by far the most 
 
 ![Dashboard](Pharmacy-analysys-dashboard.png)
 
+The Operations page shows clear peaks in transaction volume: Friday at 5pm is the single busiest slot of the week, with mornings (10–11am) and the 5–6pm window consistently busy across weekdays. Saturday and the opening hour (8am) are the quietest. Revenue is concentrated among pharmacists, as expected given prescription requirements, but individual output varies meaningfully even within that group. Average basket size stays flat throughout the day (74–77 lei), so there's no time-of-day pattern worth pricing around. 
+
+![Operations](operations-dashboard.png)
 ---
 
 Built by Ana-Maria Cherecheș · [LinkedIn](https://www.linkedin.com/in/ana-maria-chereches/) · ECBA certified (IIBA)
