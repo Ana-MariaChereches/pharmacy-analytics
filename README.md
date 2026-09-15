@@ -79,7 +79,7 @@ The Stock Risk page reveals a bigger issue than expected: nearly half of stock v
 This project demonstrates that the right analysis can answer the business questions a pharmacy manager cares about, it does not demonstrate a full 
 production data pipeline.
 
-- **Refresh, not automation.** The model updates correctly when new rows are added to the source files in the same format (tested manually: new FactSales rows flow through to Revenue and related visuals after a Refresh, with no changes needed elsewhere in the model). It does not, however, pull data automatically from a live till (POS) or inventory system - that integration depends on the specific systems a real pharmacy runs, and is out of scope for a project built on a static synthetic export.
+- **Refresh, not automation.** The model updates correctly when new rows are added to the source files in the same format (tested manually: new FactSales rows flow through to Revenue and related visuals after a Refresh, with no changes needed elsewhere in the model). It does not, however, pull data automatically from a live till (POS) or inventory system - that integration depends on the specific systems a real pharmacy runs, and is out of scope for a project built on a static synthetic export. 
 
 - **Inventory is a snapshot, not a history**, as noted in REQUIREMENTS.md. The Stock Risk page is only as current as the last export; in production, this table would need to refresh on the same cadence as the rest of the model for the expiry figures to stay meaningful.
 
