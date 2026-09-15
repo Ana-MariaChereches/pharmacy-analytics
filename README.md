@@ -14,12 +14,12 @@ This project treats that as a business analysis problem first and a dashboard se
 
 ## What is in here
 
-| File | Contents |
-|---|---|
-| `REQUIREMENTS.md` | Stakeholder, business questions, user stories with acceptance criteria, glossary, assumptions |
-| `/data` | Six CSV files forming a star schema |
-| `/dashboard` | Power BI file and screenshots |
-| `generate_data.py` | The script that produced the dataset |
+| File                       | Contents                                                                                       |
+| -------------------------- | ------------------------------------------------------------------------------------------------ |
+| `REQUIREMENTS.md`          | Stakeholder, business questions, user stories with acceptance criteria, glossary, assumptions   |
+| `*.csv` (6 files)          | Six CSV files forming a star schema                                                             |
+| `*.pbix`                   | Power BI file with the full data model and dashboard                                            |
+| `*.png` (4 files)          | Dashboard screenshots, one per page
 
 ## The data model
 
