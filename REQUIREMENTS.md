@@ -101,6 +101,16 @@ As a pharmacy manager, I want to see which products sell slowest relative to the
 
 **Priority:** Could have - useful for purchasing, but the information can be reconstructed manually if needed.
 
+### US-06. Loyalty programs
+As a pharmacy manager, I want to see how loyalty members and different age groups shop differently, so that I can target loyalty programs and product placement more effectively. 
+
+**Acceptance criteria:** 
+1. Transactions per customer compared for members vs non-members
+2. Average basket compared for both
+3. Revenue by age group shown
+4. Category mix compared across age groups.
+
+**Priority:** Could have
 ---
 
 ## 5. Business glossary
