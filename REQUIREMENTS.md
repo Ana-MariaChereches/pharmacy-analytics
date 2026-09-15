@@ -19,6 +19,7 @@ Products that are due to expire in the next 3 months are reported in the managem
 |---|---|---|---|
 | Pharmacy manager | High - owns the outcome | High | Approves scope and priorities |
 | Pharmacists | Medium - affected by staffing decisions | Medium, informal | None formal |
+| Pharmacy Assistants | Low - affected by shift scheduling, not by margin/cost data | None formal |
 
 I would interview the pharmacist manager to find out what questions he is asking himself. Where is the business not going well? What would a solution look like for him?
 I would observe or ask the pharmacists what they find difficult now and where the problem is from their point of view.
