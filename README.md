@@ -52,6 +52,7 @@ Star schema with `FactSales` at the centre.
 - [x] Operations page
 - [x] Product mix page
 - [x] Stock risk page
+- [x] Customer Insights page
 - [x] Findings written up
 
 ## Findings
@@ -76,6 +77,11 @@ The Product Mix page confirms a clear seasonal split by therapeutic class: respi
 The Stock Risk page reveals a bigger issue than expected: nearly half of stock value (39,965 lei of 82,342 lei total) is already expired, not just at risk of expiring — more than 15x the 2,267 lei sitting in the 90-day risk window. No products are currently below reorder level. Turnover otherwise looks healthy: even the slowest-moving product holds only about 61 days of stock at current sales pace.
 
 ![Stock Risk](stock-risk.png)
+
+The Customer Insights page shows loyalty membership drives visit frequency, not spend: loyalty members make roughly 5x more transactions per customer than non-members (128 vs 24), but their average basket is nearly identical (~75-77 lei either way). Revenue is fairly even across age groups, except 75+, which trails noticeably. Category mix barely shifts with age: Rx and Supplement dominate every group in roughly the same proportions.
+
+![Customer Insights](customer-insights.png)
+
 
 ## Limitations & Production Considerations
 
