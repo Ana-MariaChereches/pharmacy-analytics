@@ -96,6 +96,14 @@ production data pipeline.
   exports, on a refresh cadence matched to how often the business actually needs to check these numbers - a question still to validate with the 
   stakeholder (see REQUIREMENTS.md, Non-functional requirements).
 
+## Technical Highlights
+
+Beyond answering the business questions above, this dashboard demonstrates a few additional Power BI capabilities:
+
+- **Time intelligence**: revenue is compared year-over-year via `SAMEPERIODLASTYEAR`, closing an acceptance criterion from US-01.
+- **Native forecasting**: the monthly revenue trend includes a built-in 3-month forecast with confidence interval.
+- **Page navigation**: custom navigation buttons replace the default page tabs for a more app-like feel.
+- **Row-level security**: a "Pharmacist" role restricts visible data to pharmacist-only records, demonstrated via View As Roles in Power BI Desktop. Note: this restricts *rows* of data, not *page* access - the page-level restriction described in REQUIREMENTS.md (§8, Access) would  require Power BI Premium or a separate published report per role in production.
 ---
 
 Built by Ana-Maria Cherecheș · [LinkedIn](https://www.linkedin.com/in/ana-maria-chereches/) · ECBA certified (IIBA)
