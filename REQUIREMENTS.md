@@ -35,6 +35,7 @@ I would observe or ask the pharmacists what they find difficult now and where th
 5. Which stock is at risk of expiring, and what is that worth?
 6. Which products are slow movers tying up capital?
 7. How often are medications refused without a valid prescription?
+8. How does purchasing differ between loyalty members and non-members, and across customer age groups?
 
 ---
 
