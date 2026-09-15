@@ -25,12 +25,12 @@ This project treats that as a business analysis problem first and a dashboard se
 
 Star schema with `FactSales` at the centre.
 
-- **FactSales** — one row per product line within a transaction, ~100,000 rows across 2024–2025
-- **DimProduct** — 45 products across prescription, over-the-counter, supplement, cosmetic and medical device categories
-- **DimCustomer** — 850 anonymised customers (age group, city, loyalty flag only)
-- **DimDate** — full calendar with weekday and season attributes
-- **DimStaff** — five staff members by role
-- **Inventory** — stock on hand, reorder level and expiry date per product
+- **FactSales** - one row per product line within a transaction, ~100,000 rows across 2024–2025
+- **DimProduct** - 45 products across prescription, over-the-counter, supplement, cosmetic and medical device categories
+- **DimCustomer** - 850 anonymised customers (age group, city, loyalty flag only)
+- **DimDate** - full calendar with weekday and season attributes
+- **DimStaff** - five staff members by role
+- **Inventory** - stock on hand, reorder level and expiry date per product
 
 ## Business questions the dashboard answers
 
