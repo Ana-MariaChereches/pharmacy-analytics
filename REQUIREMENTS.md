@@ -110,7 +110,7 @@ As a pharmacy manager, I want to see how loyalty members and different age group
 3. Revenue by age group shown
 4. Category mix compared across age groups.
 
-**Priority:**Could have
+**Priority:** Could have
 
 ---
 
