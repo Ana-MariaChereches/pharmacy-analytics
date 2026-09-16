@@ -74,7 +74,7 @@ The Product Mix page confirms a clear seasonal split by therapeutic class: respi
 
 ![Product Mix](product-mix.png)
 
-The Stock Risk page reveals a bigger issue than expected: nearly half of stock value (39,965 lei of 82,342 lei total) is already expired, not just at risk of expiring — more than 15x the 2,267 lei sitting in the 90-day risk window. No products are currently below reorder level. Turnover otherwise looks healthy: even the slowest-moving product holds only about 61 days of stock at current sales pace.
+The Stock Risk page reveals a bigger issue than expected: nearly half of stock value (39,965 lei of 82,342 lei total) is already expired, not just at risk of expiring - more than 15x the 2,267 lei sitting in the 90-day risk window. No products are currently below reorder level. Turnover otherwise looks healthy: even the slowest-moving product holds only about 61 days of stock at current sales pace.
 
 ![Stock Risk](stockrisk.png)
 
