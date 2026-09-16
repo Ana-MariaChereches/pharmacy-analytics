@@ -10,7 +10,7 @@ A business analysis and reporting project built on a synthetic retail pharmacy d
 
 I worked as a pharmacist for two and a half years and saw the same reporting problem repeatedly: sales sit in one system, stock in another, and answering a simple question like *"which products are about to expire and what are they worth"* means exporting both and reconciling by hand.
 
-This project treats that as a business analysis problem first and a dashboard second. The requirements were written before anything was built.
+This project treats that as a business analysis problem first and a dashboard second. Requirements were written before each page was built, and the document kept evolving as new questions came up along the way, closer to how requirements actually work on a real project than a one-and-done document written before anything existed.
 
 ## What is in here
 
