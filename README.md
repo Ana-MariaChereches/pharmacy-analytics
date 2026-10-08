@@ -19,7 +19,7 @@ This project treats that as a business analysis problem first and a dashboard se
 | `REQUIREMENTS.md`          | Stakeholder, business questions, user stories with acceptance criteria, glossary, assumptions   |
 | `*.csv` (6 files)          | Six CSV files forming a star schema                                                             |
 | `*.pbix`                   | Power BI file with the full data model and dashboard                                            |
-| `*.png` (4 files)          | Dashboard screenshots, one per page
+| `*.png` (5 files)          | Dashboard screenshots, one per page
 
 ## The data model
 
